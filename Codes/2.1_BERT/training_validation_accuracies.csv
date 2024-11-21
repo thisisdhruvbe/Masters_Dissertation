@@ -1,0 +1,5 @@
+Epoch,Training Accuracy,Validation Accuracy
+1,0.623125,1.0
+2,0.995625,1.0
+3,1.0,1.0
+4,1.0,1.0

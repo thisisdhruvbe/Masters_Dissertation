@@ -1,0 +1,11 @@
+Feature,Importance
+execution_count,0.90795547
+module_component_Module_B,0.01983787
+test_case_priority_Low,0.014491928
+module_component_Module_C,0.013911203
+code_coverage,0.010044462
+complexity,0.00920773
+time_since_last_execution,0.0077363476
+failure_rate,0.007706654
+module_component_Module_D,0.0066313623
+test_case_priority_Medium,0.0024769942

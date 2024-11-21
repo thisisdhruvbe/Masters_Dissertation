@@ -1,0 +1,14 @@
+All the Implementation has been done 
+Install all the libraries and packages and modules that will be required, while the code is running
+
+For each implementation.
+1.1-Random forest.
+1.2-GBM, NN & XGBoost
+2.1-BERT
+2.2-KNN
+
+Run the python code, And it will automatically populate the CSV files and evaluation graphs.
+
+The evaluation metrics will be shown in the terminal after a model is done performing its task completely
+
+

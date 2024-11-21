@@ -1,0 +1,11 @@
+Feature,Importance
+execution_count,5925
+time_since_last_execution,1979
+code_coverage,1846
+failure_rate,1246
+complexity,1117
+module_component_Module_C,277
+test_case_priority_Low,250
+module_component_Module_B,206
+test_case_priority_Medium,106
+module_component_Module_D,77
